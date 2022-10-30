@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    background-attachment: fixed;
+    background-image: linear-gradient(to bottom,#fff,rgb(185, 173, 173));
+}
+
+.page-header .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.card {
+    display: flex;
+    width: 1050px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background-color: #fff;
+    margin-top: 50px;
+}
+
+.card1 {
+    display: flex;
+    width: 1050px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background-color: #fff;
+    margin-top: 80px;
+}
+
+.card2 {
+    display: flex;
+    width: 1050px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background-color: #fff;
+    margin-top: 80px;
+}
+
+.card3 {
+    display: flex;
+    width: 1050px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background-color: #fff;
+    margin-top: 80px;
+}
+
+.card4 {
+    display: flex;
+    width: 1050px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background-color: #fff;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.card .content-wrapper {
+    margin-left: 30px;
+}
+
+.card1 .content-wrapper {
+    margin-left: 30px;
+}
+
+.card2 .content-wrapper {
+    margin-left: 30px;
+}
+
+.card3 .content-wrapper {
+    margin-left: 30px;
+}
+
+.card4 .content-wrapper {
+    margin-left: 30px;
+}
+
+/* h1 {
+    margin: 0;
+} */
+
+h2 {
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+}
